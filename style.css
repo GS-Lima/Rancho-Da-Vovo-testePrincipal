@@ -17,6 +17,8 @@ body {
     overflow-x: hidden;
     font-size: 62.5%;
     width: 100%;
+    background-color: white;
+    color: black;
 }
 
 /*Header*/
